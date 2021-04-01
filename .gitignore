@@ -13,6 +13,10 @@ build
 
 # My configurations:
 db.ini
+deploy_key_rsa
+gitskills/
+learnGitee/
+learngit-1/
 
 
 # 排除所有.开头的隐藏文件:
@@ -23,3 +27,4 @@ db.ini
 # 不排除.gitignore和App.class:
 !.gitignore
 !App.class
+
